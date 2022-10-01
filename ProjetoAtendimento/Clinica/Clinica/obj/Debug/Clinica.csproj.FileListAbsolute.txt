@@ -1,0 +1,43 @@
+C:\Users\Guilherme\Downloads\C#\ProjetoAtendimento\Clinica\Clinica\bin\Debug\Clinica.exe.config
+C:\Users\Guilherme\Downloads\C#\ProjetoAtendimento\Clinica\Clinica\bin\Debug\Clinica.exe
+C:\Users\Guilherme\Downloads\C#\ProjetoAtendimento\Clinica\Clinica\bin\Debug\Clinica.pdb
+C:\Users\Guilherme\Downloads\C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Downloads\C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+C:\Users\Guilherme\Downloads\C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.visao.FormAtendimento.resources
+C:\Users\Guilherme\Downloads\C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.FormLogin.resources
+C:\Users\Guilherme\Downloads\C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.visao.FormPaciente.resources
+C:\Users\Guilherme\Downloads\C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.visao.FormPrincipal.resources
+C:\Users\Guilherme\Downloads\C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.visao.FormSplash.resources
+C:\Users\Guilherme\Downloads\C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.Cache
+C:\Users\Guilherme\Downloads\C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.exe
+C:\Users\Guilherme\Downloads\C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.pdb
+D:\Documento\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\bin\Debug\Clinica.exe.config
+D:\Documento\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\bin\Debug\Clinica.exe
+D:\Documento\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\bin\Debug\Clinica.pdb
+D:\Documento\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+D:\Documento\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.visao.FormAtendimento.resources
+D:\Documento\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.visao.FormPaciente.resources
+D:\Documento\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.visao.FormPrincipal.resources
+D:\Documento\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.visao.FormSplash.resources
+D:\Documento\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.cache
+D:\Documento\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.exe
+D:\Documento\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.pdb
+D:\Documento\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.csprojResolveAssemblyReference.cache
+D:\Documento\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.visao.Telas_de_Cadastros.FormCadastroUsuario.resources
+D:\Documento\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.visao.FormLogin.resources
+D:\Coisas Salvas\FACULDADE\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\bin\Debug\Clinica.exe.config
+D:\Coisas Salvas\FACULDADE\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\bin\Debug\Clinica.exe
+D:\Coisas Salvas\FACULDADE\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\bin\Debug\Clinica.pdb
+D:\Coisas Salvas\FACULDADE\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.csproj.AssemblyReference.cache
+D:\Coisas Salvas\FACULDADE\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.csproj.SuggestedBindingRedirects.cache
+D:\Coisas Salvas\FACULDADE\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.Properties.Resources.resources
+D:\Coisas Salvas\FACULDADE\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.visao.FormAtendimento.resources
+D:\Coisas Salvas\FACULDADE\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.visao.FormLogin.resources
+D:\Coisas Salvas\FACULDADE\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.visao.Telas_de_Cadastros.FormCadastroUsuario.resources
+D:\Coisas Salvas\FACULDADE\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.visao.FormPaciente.resources
+D:\Coisas Salvas\FACULDADE\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.visao.FormPrincipal.resources
+D:\Coisas Salvas\FACULDADE\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.visao.FormSplash.resources
+D:\Coisas Salvas\FACULDADE\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.csproj.GenerateResource.cache
+D:\Coisas Salvas\FACULDADE\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.csproj.CoreCompileInputs.cache
+D:\Coisas Salvas\FACULDADE\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.exe
+D:\Coisas Salvas\FACULDADE\Trabalho de C#\ProjetoAtendimento\Clinica\Clinica\obj\Debug\Clinica.pdb
